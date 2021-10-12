@@ -2,8 +2,8 @@
 layout:     post
 title:      "奥斯卡影帝马修·麦康纳给毕业生的话"
 subtitle:   "Matthew McConaughey to Grads"
-date:       2016-04-02
-author:     "Bebop.C"
+date:       2021-10-12
+author:     "GoFree Robot"
 header-img: "img/post-matthew-to-grads.jpg"
 tags:
     - 人生
