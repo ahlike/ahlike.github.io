@@ -77,17 +77,5 @@ friends: [
     {
         title: "CSDN 秃头队长",
         href: "https://blog.csdn.net/qq_39266065"
-    },{
-        title: "Spike Spiegel",
-        href: "#"
-    },{
-        title: "Jet Black",
-        href: "#"
-    },{
-        title: "Faye Valentine",
-        href: "#"
-    },{
-        title: "Ein",
-        href: "#"
     }
 ]
