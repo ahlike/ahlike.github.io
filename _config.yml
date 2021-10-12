@@ -1,11 +1,11 @@
 # Site settings
-title: Bebop.C Blog
-SEOTitle: Bebop.C的博客 | Bebop.C Blog
+title: GoFree Robot
+SEOTitle: GoFree Robot
 header-img: img/home-bg.jpg
-email: suburbia.x.chaos@gmail.com
+email: like1997@mail.ustc.edu.cn
 description: "May Your Heart Be The Map"
 keyword: ""
-url: "http://playingfingers.com"              # your host, for absolute URL
+url: "http://gofreerobot.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
