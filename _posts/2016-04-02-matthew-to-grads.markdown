@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "奥斯卡影帝马修·麦康纳给毕业生的话"
+title:      "【翻译】国际标准 IEC TR 63145-22-10 ｜AR类型的特定测量方法. 光学性能"
 subtitle:   "Matthew McConaughey to Grads"
 date:       2021-10-12
 author:     "GoFree Robot"
