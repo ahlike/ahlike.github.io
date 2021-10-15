@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "【翻译】国际标准 IEC TR 63145-22-10 ｜AR类型的特定测量方法. 光学性能"
+title:      "国际标准 AR类型的光学性能特定测量方法"
 subtitle:   "Matthew McConaughey to Grads"
 date:       2021-10-12
 author:     "GoFree Robot"
