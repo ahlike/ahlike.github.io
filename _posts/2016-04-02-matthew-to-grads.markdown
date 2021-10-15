@@ -12,311 +12,243 @@ tags:
 
 
 
-## 内容简介
+## **1. 范围**
+IEC 63145本部分规定了用于确定增强现实(AR)眼镜显示器的透明光学特性和成像质量的标准测量条件和测量方法。这包括眼镜显示器的传输特性和环境光学性能。隐形眼镜类型的显示器不在本文档的范围内。
+说明：范围与其他文件(IEC 63145-20-10、IEC 63145-22-10)的关系见附件A。
 
-本篇文章摘录了奥斯卡影帝马修·麦康纳在休斯顿大学毕业典礼上的演讲全文。
+---
+## **2. 引用标准**
+以下文件在文中的引用方式使其部分或全部内容构成本文件的要求。对于注明日期的参考文献，仅引用的版本适用。对于未注明日期的参考文献，应使用最新版本的参考文献(包括任何修订)。
+
+---
+## **3. 术语，定义，缩写术语和字母符号**
+ **3.1 术语和定义**
+就本文而言，下列术语和定义适用于本文。ISO和IEC在以下地址维护用于标准化的术语数据库：
+IEC电子百科:http://www.electropedia.orgISO
+网上浏览平台:http://www.iso.org/obp
+注1：与眼镜展示相关的术语将在具体项目中定义。
+注2：有关眼镜显示器的一些术语在IEC TR 63145-1-1[111]中给出
 
-这是一次令人受益匪浅的演讲。不同于其他常见的毕业生典礼演讲，少了自我成就的神话似的炫耀，全是实实在在的大干货，真的对人生很有指导意义，可以说是Matthew的人生哲学。
-
-我看过之后收获很多，于是也做过presentation分享给老师和学生，十分建议大家认真读完，比起只看我标记加重的部分更能真正理解其中的真谛。
-
-亦可参看中文字幕的演讲视频：[马修．麦康纳为2015年休斯敦大学毕业生演讲](http://www.tudou.com/listplay/07nYbg-JLmQ/wFhFdLLd26M.html)  
-
-愿大家花费的时间有所得，我相信会的。
-
-## 演讲全文
-
-Short and sweet or long and salty? A sugar donut or some oatmeal? Out of respect for you and your efforts in getting your degree, I thought long and hard about what I could share with you tonight. Did I want to stand at a podium and read you your rights? Did I want to come up here and just share some really funny stories? I thought about what you would WANT. I thought about what you might NEED. I also thought about what I WANT to say. What I NEED to say… Hopefully, we’ll both be happy on both accounts… And as the saying goes, take what you like, leave the rest. Thank you for having me.
-
-So, before I share with you some “what I do knows,” let’s talk about a “what I don’t know.”
-
-I have 2 older brothers.
-
-One was in high school in the early 1970s — a time when a high school GED got you a job and college degree was exemplary.
-
-My other brother was in HS in the early 1980s, and by this time the GED wasn’t enough to guarantee employment, you needed a college degree, and if you got one, you had a pretty good chance of getting the kind of job you wanted after you graduated.
-
-Me, I graduated HS in 1988, got my college degree in ’93. That college degree? Didn’t mean as much. No ticket, no voucher, no free pass go to anything.
-
-So, what does your college degree mean?
-
-It means you got an education, means you have more knowledge in a specific subject, vocation, means you may have more expertise in “what your degree” is in.
-
-But what is it worth? In the job market? Today?
-
-We know the market for college graduates is more competitive now than ever.
-
-And some of you already have a job lined up, a path where today’s job can become tomorrow’s career, but for most of you, the future’s probably still pretty fuzzy — you don’t have that job that directly reflects the degree you just got, and many of you don’t even have a job at all. You’ve just completed your scholastic educational curriculum in life — the one you started when you were 5 years old up until now… and your future, your “days to come,” may be no more clear than it was 5 years ago — you don’t have all the answers — and it’s scary.
-
-And that’s OK, because hey, that’s how it is, this is the reality you face — the world we live in…And while I’m not here to discourage you or in any way belittle your accomplishments of which we celebrate tonight…I am here to talk brass tacks, to skip the flattery and the “attaboys” because I DO know this.
-
-The sooner we become LESS IMPRESSED — with our life, our accomplishments, our career, the prospect in front of us. As soon as we become LESS IMPRESSED — and MORE INVOLVED with these things, the sooner we get a whole lot better at doing them.
-
-So, I’m going to talk to you about some things I’ve learned along my journey — most from experience, some I heard in passing, many I’m still practicing, but ALL of them, true.
-Yes, they may be truths to me, but don’t think that that makes them MINE… because you can’t own a truth. Think of these as signposts, approaches, paradigms, that give some science to satisfaction. They are yours to steal, to share, to liken to your own lives, and to personally apply in your OWN lives, in your own way, should you choose to.
-
-### 1.Life is not easy…
-
-NUMBER 1, LIFE’S NOT EASY…don’t try and make it that way. It’s not fair, it never was, it isn’t now, it won’t ever be. **Do not fall into the entitlement trap of feeling like you are a victim, you are not. Get over and get on with it. And yes, most things are more rewarding when you break a sweat to get em.**
-
-### 2.“Unbelievable” is the stupidest word in the dictionary
-
-It shouldn’t ever come out of our mouths.
-
-To say, “What an unbelievable play!” It was an unbelievable book, film, act of courage…really?
-
-It may be spectacular, phenomenal, most excellent and outstanding… but unbelievable? NO. Give others and yourself more credit. It just happened, you witnessed it, you just did it, believe it.
-
-How about the other side of unbelievable? When we humans “under perform” or act out of character? — “man flies a suicide jet into the World Trade Center, millions die from diseases that we have cures for, Bob the builder swears he’ll have your house built by Thanksgiving and you can’t move in ’til Christmas, the next year…” Our best friend lies to us, and we, lie to our self, all the time…unbelievable? I don’t think so.. Again, it just happened, and it happens everyday …
-
-NOTHING we homosapien earthlings do is unbelievable — one thing you can depend on people being…is people. **So we shouldn’t be surprised, we are the trickiest mammal walking the planet!! (It ain’t the monkeys I’m worried about, it’s you and me.)**
-
-**Acknowledge acts of greatness as real, and do NOT be naive about mankind’s capacity for evil nor be in denial of our own shortcomings.**
-
-NOTHING we do is unbelievable. Stupid word. Un-be-lievably stupid word.
-
-### 3.Happiness is different than Joy
-
-**“I just want to be happy.” I hear that all the time. But what is happiness? Happiness is an emotional response to an outcome — If I win I will be happy, if I don’t I won’t.** An if-then, cause and effect, quid pro quo standard that we cannot sustain because we immediately raise it every time we attain it. **You see, happiness demands a certain outcome, it is result reliant.**
-
-If happiness is what you’re after, then you are going to be let down frequently and be unhappy much of your time. Joy, though, is something else. It’s not a choice, not a response to some result, it is a constant. **Joy is “the feeling we have from doing what we are fashioned to do,” no matter the outcome.**
-
-Personally, as an actor, I started enjoying my work and literally being happier when I stopped trying to make the daily labor a means to a certain end — I need this film to be a box office success, I need my performance to be acknowledged, I need the respect of my peers.
-
-All reasonable aspirations but truth is, as soon as the WORK, the MAKING of the movie, the DOING of the deed became the reward in itself — I got more box-office, more accolades and respect than I’d ever had before. See, **JOY is always in process, under construction — it’s in the constant approach, alive and well —in the DOING of what we are fashioned to do… and enJOYing it.**
-
-### 4.Define Success For Yourself
-
-I went to a voodoo shop south of New Orleans a few years back — they had vials of “magic” potions stacked in columns with headings above each defining what they would give you — Fertility, Health, Family, Legal Help, Energy, Forgiveness, Money.
-
-Guess which column was empty? Money. Let’s admit it, “money” is king today, makes the world go round. Money is success, the more we have, the more “successful” we are, right?
-
-I’d argue that our cultural values have even been financialized — humility is not in vogue anymore, it’s too passive. It’s a get rich quick on the internet, 15 minutes of fame world we live in. See it every day.
-
-But, we all want to succeed right? **Question we have to ask ourselves is, what success is to us, what success is to YOU.** More money? OK, I got nothing against money. But maybe it’s a healthy family? A happy marriage? To help others? To be famous? To be spiritually sound? To leave the world a little bit better place than you found it?
-
-**Continue to ask yourself that question. Your answer may change over time and that’s fine, but do yourself this favor:**
-
-**Whatever your answer is, Don't choose anything that will jeopardize your soul. Prioritize who you are, who you want to be, and don't spend time with anything that antagonizes your character. Don't drink the kool aid!! It tastes sweet today but it will give you cavities tomorrow. Life is not a popularity contest. Be brave, take the hill but first, answer the question, “What is my hill?”**
-
-**How do I define success, for me, myself? For me, it’s a measurement of five things —we got  fatherhood, we got being a good husband, we got my health, we got career and we got friendships. These are what’s important to me in my life right now.**
-
-**So, I try to measure these five each day, check in with them, see whether or not I’m in the debit or the credit section with each one. Am I in the red or in the black with each of them?**
-
-**For instance, sometimes my career is rolling (in the black) but I see how my relationship with my wife could use a little more my attention. I gotta pick up the slack on being a better husband, get that one out of the red.** Or say my spiritual health could use some maintenance (red) but hey, my friendships and social life are in high gear (black)… I gotta recalibrate, checks and **balances**, go to church, remember to say thank you more often. I gotta take the tally. **Because I want to keep ALL 5 in healthy shape, and I know that if I don’t take care of them, if I don’t keep up maintenance on them, one of them is going to get weak, dip too deep into the debit section, go bankrupt, get sick… die even.**
-
-**So first, we have to DEFINE success for ourselves, then we have to put in the work to MAINTAIN it — take our daily tally, tend our garden, keep the things that are important to us in good shape.**
-
-**Let’s admit it, we all got two wolves in us, a good one and a bad one,** you know what I’m talking about — and they both wanna eat… **We just gotta feed that good wolf a little more than the other one.**
-
-### 5.Process of elimination is the first step to our identity (a.k.a where you are NOT is as important as where you are)
-
-In 1992, I got my first job as an actor. Three lines, three days work, in a film called Dazed and Confused. Alright.
-
-Alright, Alright, Alright.
-
-The director, Richard Linklater, kept inviting me back to set each night, putting me in more scenes which led to more lines all of which I happily said yes to. I was having a blast. People said I was good at it, they were writing me a check for $325 a day. I mean hell yeah, give me more scenes, I love this!! And by the end of the shoot those 3 lines had turned into over 3 weeks work and “it was Wooderson’s ’70 Chevelle we went to get Aerosmith tickets in.” Bad ass.
-
-Well, a few years ago I was watching the film again and I noticed two scenes that I really shouldn’t have been in. In one of the scenes, I exited screen left to head somewhere, then re-entered the screen to “double check” if any of the other characters wanted to go with me. Now, in rewatching the film, (and you’ll agree if you know Wooderson), he was not a guy who would ever say, “later,” and then come back to “see if you were sure you didn’t wanna come with him..” No, when Wooderson leaves, Wooderson’s gone, he doesn’t stutter step, flinch, rewind, ask twice, or solicit, right? He just “likes those high school girls cus he gets older and they stay the same age.”
-My point is, I should not have been in that scene, I should have exited screen left and never come back.
-
-But back then, making my first film, getting invited back to set, cashing that check and having a ball, I wanted more screen time, I wanted to be in the scene longer and more, and come back into the scene right?
-
-I shouldn’t have been there. Wooderson shouldn’t have been there.
-
-**It’s just as important where we are not as it is where we are.**
-
-**The first step that leads to our identity in life is usually NOT “I know who I am,” but rather “I know who I AM NOT.” Process of elimination.**
-
-**Defining ourselves by what we are NOT is the first step that leads us to really KNOWING WHO WE ARE.**
-
-You know that group of friends you hang out with that really don’t bring out your best? They gossip too much, or they’re kind of shady, and they really aren’t gonna be there for you in a pinch? Or how about that bar we keep going to that we always seem to have the worst hangover from? Or that computer screen that keeps giving us an excuse not to get out of the house and engage with the world and get some HUMAN interaction? **Or how about that food we keep eating? Tastes so good going down but makes us feel like crap the next week when we feel lethargic and keep putting on weight?**
-
-**Those people, those places, those things — STOP giving them your TIME and ENERGY. Don’t GO there, put them DOWN — and when you DO quit giving them your time, you inadvertently find yourself spending MORE time and in more PLACES that are more healthy for YOU, that bring YOU more joy** — WHY?
-
-Because you just eliminated the who’s, the where’s, the what’s and the when’s that were keeping you from your identity. **Trust me, too many options makes a tyrant of us all. So get rid of the excess, the wasted time, decrease your options. If you do this, it will accidentally, almost innocently, put in front of you, what is important to you by process of elimination.**
-
-**Knowing who we ARE is hard. So give yourself a break. Eliminate who you are NOT first, and you’ll find yourself where you need to be.**
-
-### 6.DON’T LEAVE CRUMBS — and the beauty of delayed gratification
-
-What are crumbs? The crumbs I’m talking about are the choice we make that make us have to look over our shoulder in the future.
-
-You didn’t pay that guy back the money you owed him and tonight you just saw him sitting 3 rows behind you…shit…You slept around on your spouse and you just found out that tomorrow, she and the lady you’re having an affair with, are going to be at the same PTA meeting…shit again… You drank too much last night and you’re too hungover to drive your son to his 8 a.m. Saturday morning baseball practice. THESE ARE CRUMBS! **They come in the form of regret, guilt, and remorse — you leave em today, they will cause you more stress tomorrow, and they disallow you from creating a customized future in which you do not have to look over your shoulder.**
-
-So…let’s flip the script. **Instead of creating outcomes that take from us, let’s create more outcomes that pay us back, fill us up, keep your fire lit, turn you on, for the most amount of time in your future.**
-
-These are the choices I speak of and this is the beauty of delayed gratification.
-
-Tee yourself up. Do yourself a favor. Make the choices, the purchase TODAY that PAYS you back TOMORROW. RESIDUALS. **In my business, it’s called “mailbox money.” I do my job well today, I get checks in the mailbox five years from now — heck of a deal.**
-
-So, whether its prepping the coffee maker the night before so all you gotta do is press the button in the morning, or getting ready for the job interview early so you don’t have to cram the night before, or choosing not to hook up with that married woman because you know you’ll feel horrible about it tomorrow (and her husband carries a gun), or paying your debts on time so when you do see that guy three rows back tonight — you don’t have to hunker down in your seat hoping he don’t see you. Get some R.O.I — RETURN ON INVESTMENT — Your investment. You. You customize your future.
-
-DON’T LEAVE CRUMBS.
-
-### 7.DISSECT YOUR SUCCESSES (and the reciprocity of gratitude)
-
-We so often focus on our FAILURES. We study them. We obsess on them. We DISSECT them. We end up intoxicated with them to the point of disillusion.
-
-When do we write in our diary? When we’re depressed. What do we gossip about? Other people’s flaws and limitations. We can dissect ourselves into self loathing if we’re not careful — and I find that most of the times our obsession with what is wrong just breeds more wrong and more failure.
-
-The easiest way to dissect success is though gratitude. Giving thanks for that which we do have, for what is working, appreciating the simple things we sometimes take for granted. We give thanks for these things and that gratitude reciprocates, creating more to be thankful for. It’s simple, and it works.
-
-I’m not saying be in denial of your failures. No, we can learn from them too, but only if we look at them constructively. As a means to reveal what we are good at, what we can get better at, what we do succeed at.
-
-I’ve read a lot of my bad reviews, and the good “bad reviews,” written by the more talented critics, are constructive. They reveal to me what did translate in my work, what came across, what was seen, or what wasn’t. I don’t obsess on the unfavorable aspect of their review, but I do seek what I can learn from it — Because their displeasure actually uncovers and makes more apparent what I do do well, what I am successful at… and then I dissect that.
-
-**Life is a verb. We try our best. We don’t always do our best. Well, architecture is a verb as well. And since we are the architects of our lives, lets study the habits, the practices, the routines we have that lead to and feed our success… our joy, our honest pain, our laughter, our earned tears…**Let’s Dissect THAT and give thanks for THOSE things… and when we do that what happens? We get better at them…and have more to dissect.
-
-### 8.MAKE VOLUNTARY OBLIGATIONS
-
-Mom and dad teach us things as children. Teachers, mentors, the government and laws all give us guidelines to navigate life, rules to abide by in the name of accountability.
-
-I’m not talking about those obligations. I’m talking about the ones we make with ourselves, with our God, with our own consciousness. I’m talking about the YOU versus YOU obligations. We have to have them. Again, these are not societal laws and expectations that we acknowledge and endow for anyone other than ourselves. These are FAITH based OBLIGATIONS that we make on our own.
-
-Not the lowered insurance rate for a good driving record, you will not be fined or put in jail if you do not gratify the obligations I speak of — no one else governs these but you.
-
-They’re secrets with yourself, private council, personal protocols, and while nobody throws you a party when you abide by them, no one will arrest you when you break them either. Except yourself. Or, some cops who got a “disturbing the peace” call at 2:30 in the morning because you were playing bongos in your birthday suit.
-
-An honest man’s pillow is his peace of mind, and when you lay down on the pillow at night, no matter who’s in our bed we ALL sleep alone. — These are your personal jiminy crickets. And there are not enough cops in the entire world to police them — It’s on YOU.
-
-### 9.From can to want
-
-1995, I got my first big paycheck as an actor. I think it was 150 grand. The film was Boys on the Side and we’re shooting in Tucson, AZ and I have this sweet little adobe guest house on the edge of the Saguaro National Park. The house came with a maid. My first maid. It was awesome. So, I’ve got a friend over one Friday night and we’re having a good time and I’m telling her about how happy I am with my set up . The house. The maid. Especially, the maid. I’m telling her, “she cleans the place after I go to work, washes my clothes, the dishes, puts fresh water by my bed, leaves me cooked meals sometimes, and SHE EVEN PRESSES MY JEANS!” My friend, she smiles at me, happy for my genuine excitement over this “luxury service” I’m getting, and she says, “Well…that’s great…if you like your jeans pressed.”
-
-I kind of looked at her, kind of stuttered without saying anything, you know, that dumb ass look you can get, and it hit me…
-
-I hate that line going down my jeans! And it was then, for the first time, that I noticed…I’ve never thought about NOT liking that starched line down the front of my jeans!! Because I’d never had a maid to iron my jeans before!! And since she did, now, for the first time in my life, I just liked it because I could get it, I never thought about if I really wanted it there. Well, I did NOT want it there. That line… and that night I learned something.
-
-Just because you CAN?… Nah… It’s not a good enough reason to do something. Even when it means having more, be discerning, choose it, because you WANT it, DO IT because you WANT to.
-
-I’ve never had my jeans pressed since.
-
-### 10.A roof is a man made thing
-
-January 3, 1993. NFL playoffs. Your Houston Oilers vs. Buffalo Bills. Oilers up 28–3 at halftime, 35–3 early in the 3rd. Frank Reich and the Bills come back to win 41–38 in overtime for one of the greatest comebacks in NFL history. Yeah, the Bills won, but they didn’t really beat the Oilers. The Oilers lost that game, they beat themselves.
-
-Why? Because at halftime they put a ceiling, a roof, a limit on their belief in themselves, a.k.a the “prevent defense.” Maybe they started thinking about the next opponent at halftime, played on their heels, lost the mental edge the entire 2nd half and voila, they lost. In a mere 2 quarters defensive coordinator Jim Eddy went from being called DC OF THE YEAR and “the man first in line to be a HC next year” to a man without a job in the NFL.
-
-You ever choked? You know what I mean, fumbled at the goal line, stuck your foot in your mouth once you got the microphone, had a brain freeze on the exam you were totally prepared for, forgot the punch line to a joke in front of four thousand graduating students at a University of Houston Commencement speech? Or maybe you’ve had that feeling of “Oh my God, life can’t get any better, do I deserve this?”
-
-What happens when we get that feeling? We tense up, we have this outer body experience where we are literally seeing our self in the third person. We realize that the moment just got bigger than us. You ever felt that way? I have.
-
-It’s because we have created a fictitious ceiling, a roof, to our expectations of ourselves, a limit — where we think it’s all too good to be true. BUT IT ISN’T. AND IT’S NOT OUR RIGHT TO SAY OR BELIEVE IT IS.
-
-We shouldn’t create these restrictions on ourselves. A blue ribbon, a statue, a score, a great idea, the love of our life, a euphoric bliss. Who are we to think we don’t deserve or haven’t earned these gifts when we get them?
-Not our right.
-
-But if we stay in process, within ourselves, in the joy of the doing, we will never choke at the finish line. Why? Because we aren’t thinking of the finish line, we’re not looking at the clock, we’re not watching ourselves on the Jumbotron performing the very act we are in the middle of. No, we’re in process, **the APPROACH IS THE DESTINATION…** and we are NEVER finished.
-
-Bo Jackson ran over the goal line, through the end zone and up the tunnel — the greatest snipers and marksmen in the world don’t aim at the target, they aim on the other side of it.
-
-We do our best when our destinations are beyond the “measurement,” when our reach continually exceeds our grasp, when we have immortal finish lines.
-
-When we do this, the race is never over. The journey has no port. The adventure never ends because we are always on our way. Do this, and let them tap us on the shoulder and say, “hey, you scored.” Let them tell you “You won.” Let them come tell you, “you can go home now.” Let them say “I love you too.” Let them say “thank you.”
-
-TAKE THE LID OFF THE MAN MADE ROOFS WE PUT ABOVE OURSELVES AND ALWAYS PLAY LIKE AN UNDERDOG.
-
-### 11.Turn the page
-
-The late and great University of Texas football coach Daryl Royal was a friend of mine and a good friend to many. A lot of people looked up to him. One was a musician named “Larry.” Now at this time in his life Larry was in the prime of his country music career, had #1 hits and his life was rollin’. He had picked up a habit snortin’ “the white stuff” somewhere along the line and at one particular party after a “bathroom break,” Larry went confidently up to his mentor Daryl and he started telling Coach a story. Coach listened as he always had and when Larry finished his story and was about to walk away, Coach Royal put a gentle hand on his shoulder and very discreetly said, “Larry, you got something on your nose there bud.” Larry immediately hurried to the bathroom mirror where he saw some white powder he hadn’t cleaned off his nose. He was ashamed. He was embarrassed. As much because he felt so disrespectful to Coach Royal, and as much because he’d obviously gotten too comfortable with the drug to even hide as well as he should.
-
-Well, the next day Larry went to coach’s house, rang the doorbell, Coach answered and he said, “Coach, I need to talk to you.” Daryl said, “sure, c’mon in.”
-
-Larry confessed. He purged his sins to Coach. He told him how embarrassed he was, and how he’s “lost his way” in the midst of all the fame and fortune and towards the end of an hour, Larry, in tears, asked Coach, “What do you think I should do?” Now, Coach, being a man of few words, just looked at him and calmly said, “**Larry, I have never had any trouble turning the page in the book of my life.**” Larry got sober that day and he has been for the last 40 years.
-
-**You ever get in a rut? Stuck on the merry-go-round of a bad habit? I have. We gonna make mistakes — you gotta own them, then you gotta make amends, and then you gotta move on. Guilt and regret kills many a man before their time. So turn the page, get off the ride. YOU are the author of the book of your life. Turn that page.**
-
-### 12.Give your obstacles credit
-
-**You know these No Fear t-shirts? I don’t get em. Hell, I try to scare myself at least once a day.** I get butterflies every morning before I go to work. **I was nervous before I got here to speak tonight. I think fear is a good thing. Why? Because it increases our NEED to overcome that fear.**
-
-Say your obstacle is fear of rejection. You want to ask her out but you fear she may say “no.” You want to ask for that promotion but you’re scared your boss will think you’re overstepping your bounds.
-
-**Well, instead of denying those fears, declare them, say them out loud, admit them, give them the credit they deserve. Don’t get all macho and act like they’re no big deal, and don’t get paralyzed by denying they exist and therefore abandoning your need to overcome them. I mean, I’d subscribe to the belief that we’re all destined to have to do the thing we fear the most anyway.**
-
-So, you give your obstacles credit and you will one, find the courage to overcome them, or you will two, see clearly that they are not really worth prevailing over.
-
-Be brave, have courage. When you do, you get stronger, more aware and more respectful of yourself and that which you fear.
-
-### 13.So how do we know when we cross the truth?
-
-13, Why 13? Unlucky right?
-
-Well, when did 13 get the bad rap and become the mongrel of numerology? Thirteen’s never done me wrong. In fact, 13 has been a pretty lucky number for me, lemme tell you how:
-
-I’ve always taken these 21 day trips by myself to far off places where I usually don’t know the language and nobody knows my name. They’re adventures and they’re a purge, a cleanse for me. Like a 21 day fast from attention, from all the things I have in my well appointed life. They’re a check OUT, so I can check in with myself.
-
-See how I’m doing, be forced to be my own and only company, to have a look in my mirror. And you know what can happen when we do that — sometimes we don’t like what we see.
-
-In 1996, right after I got “famous” from a film called A Time to Kill, I headed out on one of these 21-day walkabouts — this time to the jungles and mountains of Peru. The sudden fame I’d just gotten was somewhat unbalancing. My face was everywhere, everyone wanted a piece of me, people I’d never met were swearing they “loved me” — everywhere I went, there I was, on a billboard, a magazine cover. It was just weird. What was this all about? What was reality and what was bullshit? Did I deserve all this?” were all questions I was asking myself.
-
-“Who was I?” was another.
-
-Now, there’s always an initiation period with these trips. An amount of time that it takes for the place to INITIATE the traveler. The time it takes to disconnect from the world we left, and become completely present in the one we are traveling in…For me, that initiation period usually last about thirteen days. Yes. Thirteen hellish days until I’m out of my own way. After that, the trip is smooth sailing.
-
-Well, it was the night of the twelfth day of my 21-day trip. I was settling into camp, I’d already hiked 80 miles to this point and had a three-day trek to Machu Pichu ahead of me.
-
-I was sick of myself. Wrestling with the loss of my anonymity, guilt ridden for sins of my past, full of regret. I was lonely — disgusted with the company I was keeping: MY OWN — and doing a pretty good job of mentally beating the shit out of myself.
-
-Grappling with the demons on this night, I couldn’t sleep. All of these badges and banners and expectations and anxieties I was carrying with me. I needed to free myself from them… Who was I? I asked myself. Not only on this trip but in this life. So I stripped down to nothing. I took off every moniker that gave me pride and confidence, all the window dressings, the packaging around my product (heart). I discarded my lucky and faithful American cap, stripped off my talismans from adventures past. I even discarded my late father’s gold ring he gave to me that was made from a meltdown of he and my mom’s class rings and gold from one of her teeth.
-
-I was naked. Literally and figuratively. And I got sick. Soaked in sweat, I threw up until there was no bile left in my belly, and finally passed out from exhaustion.
-
-A few hours later, I awoke on this thirteenth morning to a rising sun. Surprisingly fresh and energized, I dressed, made some tea and went for a morning walk. Not towards my destination Machu Pichu but rather to nowhere in particular. My gut was still a bit piqued from last night’s purge, yet I curiously felt pretty good: alive, clean, free, light.
-
-Along a muddy path on this walk, I turned a corner and there in the middle of the road was a mirage of the most magnificent pinks and blues and red colors I had ever seen. It was electric, glowing and vibrant, hovering just off the surface, as if it was plugged in to some neon power plant.
-
-I stopped. I stared. There was no way around it: The jungle floor in front of me was actually THOUSANDS OF BUTTERFLIES. There, in my path. It was SPECTACULAR.
-
-I stayed awhile, and somewhere in my captivation, I heard this little voice inside my head say these words, “All I want is what I can see, and what I can see, is in front of me.”
-
-At that moment, for the first time on this trip, I had stopped anticipating what was around the corner, stopped thinking about what was coming up next and what was up ahead. Time slowed down. I was no longer in a rush to get anywhere. My anxieties were eased.
-
-A few hours later I returned to camp and packed for my continued journey onto Machu Pichu. I had a bounce in my step, new energy. The local Sherpas I was traveling with even noticed, calling out to me, “sois luz Mateo, sois luz!!!” — meaning “you are light” in Spanish.
-
-You see, I forgave myself that morning. I let go of the guilt, the weight on my shoulders lifted, my penance paid, and I got back in good graces with my God. I shook hands with myself, my best friend, the one we’re all stuck with anyway. From that morning on, the adventure was awesome. I was present, out of my own way, not anticipating next, embracing only what was in front of my eyes, and giving everything the justice it deserved.
-
-You see, **I crossed a truth that morning. Did I find it? I don’t know, I think it found me. Why? Because I put myself in a place to be found. I put myself in a place to receive the truth.**
-
-**So, how do we know when we cross the truth?**
-
-**I believe the truth is all around us, all the time. The answer, you know, it’s always right there. But we don’t always see it, grasp it, hear it, access it — because we’re not in the right place to.**
-
-**So what do we do?**
-
-**First, we have to put ourselves in the place to receive the truth. We live in an extremely noisy world with all kinds of frequencies coming at us — commitments, deadlines, fix this, do that, plans, expectations — and they all make it hard to get clarity and peace of mind. So we have to consciously put ourselves in a place to receive that clarity. Whether that’s prayer, meditation, a walkabout, being in right company, a road trip, whatever it is for you.**
-
-**Schedule that time. Schedule it.**
-
-Now, if we hear it, if it becomes clear, a truth that is natural and infinite, then the second part comes…
-
-…which is to PERSONALIZE it. Ask how it works for you, how it applies to you personally, why you need it in your life, specifically.
-
-…If we do THAT, then comes the third part:
-
-….having the patience to internalize it — and get it from our intellectual head and into our bones and soul and our instinct. We can’t rush this part, it takes time.
-
-And if we get that far. We received it, we personalized it, we internalized it. If we make it that far, then comes THE BIGGIE ….
-
-Having the courage to act on it. To actually take it into our daily lives and practice it, to make it an active part of who we are and live it.
-
-If we can do that, then we have what I believe is Heaven on Earth.
-
-The place where what we want is also just what we need. I mean that’s the ticket isn’t it!!? That’s where I want to live!!
-
-**So while we’re here, let’s make it a place where we break a sweat, where we believe, where we enjoy the process of succeeding in the places and ways we are fashioned to. Where we don’t have to look over our shoulder because we are too busy doing what we’re good at. Voluntarily keeping our own council because we WANT to. Traveling towards immortal finish lines. We write our book. Overcome our fears. We make friends with ourselves.**
-
-That is the place I’m talking about.
-
-**Thank you, good luck and just keep livin'.**
-
-
-
-
-## 参考阅读
-
-[1][马修．麦康纳为2015年休斯敦大学毕业生演讲](http://www.tudou.com/listplay/07nYbg-JLmQ/wFhFdLLd26M.html)  
-
-
-
+前杂散光：通过眼镜进入眼睛的光，不是对形成图像或景色有效的光
+
+ **3.2 术语和定义**
+AR 增强现实
+CCD 电荷耦合器件
+CCFL 冷阴极荧光灯
+CPD 循环每度
+DUT 被测器件
+FOV 视场的视野
+LMD 光测量装置
+
+ **3.3 字母符号(数量符号、单位符号)**
+![在这里插入图片描述](https://img-blog.csdnimg.cn/8a84bcd1dae148dca66e1e37d93c372c.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA56eD5aS06Zif6ZW_,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+
+---
+## 4 标准测量条件
+**4.1标准环境条件**
+除非另有规定，所有眼镜显示器的测试和测量应在照明源和被测器件(见4.3)充足的预热时间后，在以下标准环境条件下进行：
+温度**22 °C 至 28 °C**，相对湿度**25%到85%**，还有大气压**86kpa到106kpa**。
+当使用不同的环境条件时，应在规范中详细报告。
+
+**4.2 电源**
+为了稳定被测器件的性能，驱动被测器件的电源应根据被测器件的规格进行调整。
+说明：当被测部件由电池驱动时，电源波动的影响较小。
+
+**4.3 预热时间**
+器件的瞬态温度特性直接影响到器件的光学性能。被测器件的亮度输出达到稳态需要一定的时间。如果亮度输出不在**±3%**的变化范围内，则应报告。在测量过程中，所有测量条件应保持恒定。说明如果测量结果没有达到稳定状态，可能会受到被测部件输出波动和/或光测量装置波动的影响，如噪声。
+
+**4.4 暗室条件**
+测量空间反射的测试室背景的亮度贡献应小于被测器件输出的最小亮度的**1/20**。如果不满足此条件，则可以减去背景亮度并报告。
+
+---
+
+## 5 测量系统
+**5.1 标准坐标系**
+为了表示虚像的大小和位置，在测量中使用海拔(纬度)和方位角(经度)应使用的球面坐标系:极轴为垂直方向，如图1所示。在垂直半平面或数据中测量的角为仰角，记为 $a$，半平面的水平角为方位角，记为 $y$，原点方向 $(a= 0,\Psi = 0)$ 的球坐标系应与被测物体的光轴重合。
+
+为表示眼盒、参考点、视点、出瞳距离、光测量装置入射时光孔的大小等之间的位置关系，采用三维笛卡尔坐标系(x, v, z)应使用，如图2所示。除非另有说明，被测器件的眼球点位于眼球的入口瞳孔的中心，入口瞳孔位于虹膜的中心。视点定义了坐标系的原点。被测器件的制造商或供应商应指定被测器件的参考点与视点之间的距离。出瞳距离定义为从角膜到最近的被测器件光学元件的距离。
+
+说明：在双目眼镜显示的情况下，左眼可以作为笛卡尔坐标系的原点。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/81eaf68a57d542baac6fee7d5d0f5728.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA56eD5aS06Zif6ZW_,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+**5.2 测量设备**
+**5.2.1 光测量装置(LMD)**
+设备的配置和运行条件应符合每项规定的结构。为确保准确的测量，应实施以下要求。否则，差异应在 ISO/CIE 19476[9] 描述光测量装置评估程序的报告中注明。
+光测量装置(点光测量装置或二维成像光测量装置)的光学应与人眼等效，如图3所示。光测量装置应配备探测仪。光测量装置的进瞳(孔径)位置应由制造商或供应商提供。光测量装置的进瞳尺寸应设置在2mm - 5mm之间，且要小于被测器件投影的光场。用于测量光学特性(如亮度和颜色)的光测量装置应使用适当的光度或光谱标准进行校准。
+在进行测量之前，应该仔细检查光测量装置，考虑以下几点：
+- 被测量对测量光的灵敏度；
+- 由遮蔽眩光和透镜光晕(即光学系统中的杂散光)引起的误差；
+- 数据采集的时序，低通滤波和混叠效应；
+- 线性检测和数据转换
+- 测量磁场大小
+![在这里插入图片描述](https://img-blog.csdnimg.cn/ba829a588ad745a49d281c4e419039c8.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA56eD5aS06Zif6ZW_,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+
+使用光谱辐射计等分光计型LMD时，波长范围至少为380 ~ 780 nm，光谱带宽小于等于5 nm，波长精度小于等于0.3 nm。
+
+当使用滤光片型LMD(如亮度计)时，为确保目标DUT光源的亮度精度，其光谱响应度应符合CIE光致视觉的光谱发光效率，或应与校准的光谱仪进行比较。如有必要，可以应用光谱失配校正因子。
+
+当一个滤光片型LMD如使用色度计，以确保颜色的准确性DUT光源，其光谱响应率应符合CIE 配色函数1931 CIE标准色度观察者(见ISO 11664 - 1(71)或应该与校准分光计。如有必要，可以应用色彩校正因子。滤光片型LMD不应用于绝对色量，而应用于相对色量，如颜色均匀性。
+
+二维成像LMD(采用CCD等二维传感器)是一种滤光片型LMD。二维成像LMD的性能应符合5.2.1.3和5.2.1.4。确认二维成像LMD的有效测量视场角，并通过二维成像LMD的外围图像确认无渐晕。二维成像LMD的像素数不小于测量域内子像素数的4倍。
+
+**5.2.2 平台条件**
+这个平台应当被使用实现5.1中规定的坐标系。这个工作台应该用一个等效的双轴测角仪和一个正交的三轴平移工作台来构造。这可能包括复杂的定位系统，如多轴机械臂。
+
+测角仪：装配一个双轴测角仪，以便能够测量图1所示球面坐标系中的方位角(水平)和仰角(垂直)。图4显示了五轴阶段的示例。角精度应不小于0.19。角度计可以在LMD的入口瞳孔的中心或入口瞳孔后10毫米处旋转，以包括眼睛旋转的影响。
+
+旋转平台：一个正交的三轴平移台装配在一个足够的范围内，以覆盖测量距离，如眼盒体积，并在必要时覆盖双目dut的瞳间距离，如图4所示。平移精度应不小于0.05 mm。
+
+被测件应安装在稳定的平台上，以确保图像的稳定性。LMD相对于DUT的位置需要移动，可以使用五轴系统(双轴测角仪和正交三轴平移台)。测量装置的例子如图4所示。DUT的视点应与双轴测角仪的原点相匹配。由制造商或供应商决定的DUT的光轴应调整到LMD的光轴上，并与正交三轴平移台的z轴相连接。对于带有矩形虚像的DUT，虚像的边缘应平行于正交三轴平移台的x轴和v轴进行调整为了从前视图测量情况，当DUT不假设注视角度(眼球旋转)发生变化时，双轴测角器的原点应假设为眼球的入口瞳孔(眼球点)，而不是眼球的旋转中心(眼球运动)。当双轴测角仪的原点与DUT的视点不匹配时，应要求畸变校正并报告。当被测件注视角度发生变化时，如旋转中心位置等详细信息应由制造商或供应商指定并报告。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/cdde98d7acb349e3abc3a81aae8f6896.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA56eD5aS06Zif6ZW_,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+
+ **5.3测试模式**
+以下测试模式应由制造商或供应商指定，应用的测试模式应在报告中注明。当应用其他测试模式时，应在报告中注明说明与传统显示器不同，显示区域边界不清晰，测试模式的选择可能会影响测量结果。
+
+如图5所示的棋盘图应用于测量适用的特性，并可用于对DUT和LMD光学器件的校准。在ISO 9241- 305[6]中指定的带有十字的棋盘图案，也应该用于DUT和LMD光学的对准。中间的白色和黑色图案都可以使用。通常，使用黑白棋盘图案，但如果有必要，也可以使用其他颜色(红、绿、蓝等)和黑色的棋盘图案。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/fbcdb76dcdef4adf95316a7f253eec42.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA56eD5aS06Zif6ZW_,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+
+**5.4 测试点**
+采用由制造商或供应商提供的中心点(1点)或多点(5点或9点)测量。1点、5点、9点测量点分别为:$P_0$、$P_0-P_4$、$P_0-P_8$，如图6所示。当使用其他测点时，制造商或供应商应指出这些位置。应用测量点定义在每个测量项目中。如果采用其他测点，应在相关规范中定义。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/59a6b6ab819d4bde86b9d11739bf4c89.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA56eD5aS06Zif6ZW_,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+
+---
+## 6 测试方法
+**6.1 光谱定向透射率**
+该方法的目的是测量被测器件关闭时的光谱定向透过率。该方法基于CIE 015:2004[10]5.3.1。除了照明光源和LMD方向(不总是垂直于被测部件，并与被测部件的光轴对齐)。光源和LMD都是定向的，而不是漫反射的。两个光轴的方向是相同的。定向LMD模拟人类眼睛。若测量结果较低，则表示被测物体在扩散(散射)或吸收。如果通过电子调光装置可以切换透射率[11]，则应在每种模式下进行测量。此外，测量开关速度本身也很重要(见附件B)。
+
+**6.1.2 条件**
+以下仪器应使用:
+- 1）计量体系:标准计量体系
+- 2）测试用照明光源:对光谱仪来说，在可视范围内的光谱平滑带宽光源，如装有积分球或参考显示装置的卤素灯。
+
+参考显示装置的目的是用作被测器件前面的照明源。如果使用参考显示装置，应检查偏振相关性。如果参考显示器使用背光，它不应该有清晰的光谱特征(如在一些CCFLs)。
+
+注意：为了检查参考显示器的偏振，可以使用偏光片。例如，线性偏光片和圆形偏光片可以在参考显示器前旋转，并检查亮度变化。
+
+除了标准测量系统外，还应采用以下设置(另见图7):
+- 1）光源位置：在DUT前面；
+- 2）光源方向、距离和尺寸：设置光源方向，使其与被测件的光轴对齐，由厂商或供应商决定。该距离的设置使照明光源孔径围绕DUT光轴的半角不超过3°。如果尺寸较大，可以使用带有光圈的黑色盖子。距离也超过LMD成像透镜焦距的20倍；
+说明：如果在光源的测量场角内存在透射光衍射的光学元件，可能会造成测量误差。
+- 3）LMD聚焦：LMD应与DUT虚像聚焦在相同的焦距处；
+- 4）测点$P_0$：将光源放置在LMD焦距处，并确保LMD测量场小于光源尺寸；
+![在这里插入图片描述](https://img-blog.csdnimg.cn/d89042ba536d4716a0c3a7eafa8746f4.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA56eD5aS06Zif6ZW_,size_17,color_FFFFFF,t_70,g_se,x_16#pic_center)
+
+**6.1.3 过程**
+单点或多点测量应采用以下测量程序:
+- 1）打开DUT进行对齐，然后将LMD聚焦设置在已显示的图像上。关闭DUT进行透射率测量。当DUT处于关闭模式时，测量光谱辐亮度$l_{v,0}(\lambda)$ ；
+- 2）取下DUT，保持光源和LMD的位置，测量光源$l_{v,ill}(\lambda)$ 的光谱辐亮度；
+- 3）如果适用，重复另一个目镜。
+
+**6.1.4 计算**
+计算透射率$T_{0/0}$，如下所示：
+![在这里插入图片描述](https://img-blog.csdnimg.cn/33c65436f6bf4ec8bf5af2cebcf22596.png#pic_center)![在这里插入图片描述](https://img-blog.csdnimg.cn/2067bf2da74a4d7f96b647335d4daf23.png#pic_center)
+其中：
+$V(\lambda)$是CIE标准光视觉测光仪；$D_{65}(\lambda)$是CIE标准照明D65；$\lambda_1$为可见光谱范围的下波长；$\lambda_2$是可见光谱范围的上波长。
+
+**6.1.5 报告**
+应报告以下项目:
+- 透射率$T_{0/0}$，光谱亮度，$l_{v,0}(\lambda)$，$l_{v,ill}(\lambda)$ ；
+- 照明光源的详细信息
+- 安装细节，包括LMD和孔径大小，视点和DUT光轴。
+
+---
+**6.2 色差**
+该方法的目的是测量被测器件关闭时，被测器件所引起的色差。这种方法是基于6.1
+
+下面的仪器应使用：
+- 1）计量体系：标准计量体系；
+- 2）照明光源：对于分光计而言，在可视范围内的光谱平滑带宽光源，如装有积分球的卤素灯；对于滤光片型LMD，类似于CIE标准光源D65的均匀平坦光源，或参考显示设备。
+
+参考显示装置的目的是用作被测器件前面的照明源。
+除标准测量系统外，还应采用以下设置：
+- 1）光源位置：在DUT前面；
+- 2）光源方向、距离和尺寸：设置光源方向使其与被测部件的光轴对齐，由制造商或供应商决定。确定距离，使尺寸小于被测件光轴的3°。如果尺寸较大，可以使用带有光圈的黑色盖子；
+- 3）LMD型：分光计或色度计(滤光片型)；
+- 4） LMD聚焦：在DUT上显示图像；
+- 5）测点$P_0$： LMD测量场的位置与照明源位置对应，且LMD测量场的尺寸小于照明源的尺寸。
+
+应采用下列测量程序：
+- 1）关闭DUT，测量光谱亮度，或CIE 1931色度协调；
+- 2）去掉DUT，保持光源和LMD的位置，测量光谱亮度，或CIE 1931色度坐标；
+- 3）如果适用，重复另一个目镜。
+
+计算方法如下：
+- 1）使用光谱仪时，根据光谱辐射度计算CIE 1931色度坐标$(x_0,y_0)$和$(x_{ill},y_{ill})$，公式如下：
+![在这里插入图片描述](https://img-blog.csdnimg.cn/21f0d911dab54643bfb813deeb8e7de9.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA56eD5aS06Zif6ZW_,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+- 2）用CIE 1931色度坐标计算CIE 1976色度坐标的u'和v'，公式如下(见ISO/CIE 11664-5)：
+![在这里插入图片描述](https://img-blog.csdnimg.cn/30a3f1ccd89c435bb5fd06433bdf2c33.png#pic_center)
+- 3）用以下公式计算色差：
+![在这里插入图片描述](https://img-blog.csdnimg.cn/57bcb18c46d84173af741eb455aecfe3.png#pic_center)
+
+报告应当报告下列事项:
+**色差和色度坐标；照明源详细信息；设置细节，包括LMD和孔径大小，视点和DUT光轴。**
+
+---
+**6.3 前杂散光**
+该方法的目的是测量被测物体的正面杂散光(也称为雾度)。在半球形照明下，DUT关闭。该方法基于CIE 015:2004[101, 5.3.3]。除了LMD方向(不是总是垂直于被测部件，并与被测部件的光轴对齐)。光源是漫反射的，LMD是定向的。如果这个测量结果是高的，这意味着DUT趋向于模糊。用户会从被测物体的正面观察到更多的杂散光。
+
+下面的设备应使用：
+- A）测量系统：标准测量系统照明
+- B）光源：带端口的积分球和稳定光源如下：
+积分球中的光源具有平滑的宽带光谱，接近ISO 11664-2[81]中规定的CIE标准光源D65。积分球有一个光电探测器，监测球内的相对亮度级别m。监视器将安装挡板，以防止光源或样品端口的光线直接落在监视器上。光源的光谱特性将在测量过程中保持恒定。测量条件应是这样的，即测量时DUT温度不增。
+注明：在包含被照亮材料的荧光的情况下，测量的光谱特性与照明光源的光谱特性不相同
+ 	- 1）积分球的总端口面积不超过球体内部面积的4,0%。建议积分球的直径不小于150毫米，以便使用尺寸合理的试件。当积分球直径为150 mm，样品、补偿和光阱端口直径为30 mm时，端口总面积与球体内部面积之比为3.0%。如果积分球没有补偿港口,并将DUT样本港口不显著改变光的光谱分布在球体，监控探测器将用于弥补球体照度的变化，由于DUT存在采样口。
+ 	- 2）如图8所示，球体的直径$z_s$和光阱端口直径$d_{LT}$的大小将使光阱端口的开口相对于采样口的中心$\theta_{LT}= 8°$。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/7143776cbc2c4efc8f24528302715f52.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA56eD5aS06Zif6ZW_,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+
+除标准测量系统外，还应采用以下设置：
+- 1）光源位置:在DUT前面
+- 2） LMD和照明源设置：LMD放置在离球体$z_{LMD}$的距离处，产生一个直径$d_{mf}$的测量场，计算公式如下：
+![在这里插入图片描述](https://img-blog.csdnimg.cn/c190f483b2504b0a91c8e60adb7c5b41.png#pic_center)
+其中$d_{pmf}$是光阱端口的投影测量场直径。
+LMD和积分球的设置方式是，直径的测量场与样本端口直径之间的角间隙(环)为1.3°，如下所示：
+![在这里插入图片描述](https://img-blog.csdnimg.cn/e6d9ba0b13554dcba5d410f152d568e8.png#pic_center)
+满足上述要求时，任何被测光线相对于被测物体光轴的最大角度小于3°；
+
+- 3）LMD聚焦：在DUT上显示图像
+- 4）测点$P_0$
+
+应采用下列测量程序(另见表2):
+- 1）在trap端口放置端口插头或漫射白色标准。打开积分球光源，使光源和LMD稳定；
+- 2）如果积分球有补偿端口，则将DUT放置在补偿端口附近，使其与制造商或供应商决定的DUT光轴对齐。DUT关闭；
+- 3）测量亮度$L_{v1}$，并可选地记录监视器检测器值$m_1$；
+- 4）将DUT放在采样端口上。如果积分球有一个补偿端口，在该端口放置一个光阱；
+- 5）通过DUT测量透射亮度$L_{v2}$，并随意记录监视器检测器值$m_2$；
+- 6）将trap端口的端口插头或漫射白标更换为trap。如果积分球有一个补偿端口，将端口插头或漫射白色标准在那个端口。通过DUT测量透射亮度$L_{v4}$。可选地记录监视器探测器值$m_4$；
+- 7）将DUT从样品采样移除。测量亮度$L_{v3}$，并可选地记录监视器检测器的值$m_3$；
+- 8）如果适用，重复做另一个目镜。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2414c2d73d9d4b85bdb9e824d24d2006.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA56eD5aS06Zif6ZW_,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+计算正面杂散光如下所示，如不使用监控检测器，则全部$m_i$值等于1。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/e2218abe84fc40bf9b03bdb599bfdde8.png#pic_center)
+
+应当报告下列事项：
+**前侧杂散光、各亮度、监控检测器值；照明光源详细信息；设置细节，包括LMD和孔径大小，视点和DUT光轴。**
+
+---
+
+**6.4 对比调制**
+该方法的目的是测量被测器件关闭时通过被测器件的对比度调制。如果测量值小于1，则DUT降低了观察者对物体的可见性。对比度调制表示虚像的分辨率。
+
+下面的仪器应使用：
+- 1）计量体系：标准计量体系
+- 2）参考对象：具有对比度调制测试图案的参考对象(即印刷图案或显示对比度调制测试图案的参考显示设备)。对比度调制测试图形应为周期不同的黑白线对。如图9所示，至少要准备由制造商或供应商指定的三种不同音高的线对。对比度调制测试图的条纹方向应为垂直方向。水平，±45。线对间距的倒数是空间频率($f_{cep}$= 1/P)。CPD是每度的线修复周期，通过DUT查看。如果使用参考显示装置，应检查偏振相关性。
+注：此测试所需的音高取决于DUT及其使用环境，由制造商或供应商指定。但是，如果没有信息，可以考虑一些因素，例如人类的视力(一弧分的宽度(高分辨率)对应的视力表在足系统为20/20，在十进制为1,0)。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/e9477715c4a04341aca66ad288ebfb61.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA56eD5aS06Zif6ZW_,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+- 3）LMD:成像LMD应使用。成像LMD的分辨率至少要比线对的空间频率高4倍。
+
+
+除了标准测量系统外，还应采用以下设置(另见图10)：
+- 1）参考对象：参考对象设置在DUT的前面，使方向与DUT的光轴对齐，由制造商或供应商决定。确定距离，使尺寸小于被测件光轴的3°。如果尺寸较大，可使用带孔的黑色盖子；
+- 2） LMD焦点:参考对象：制造商或供应商应指定参考对象到LMD的距离；
+注：当使用DUT时，观众可能会调整他们的焦点到虚拟图像距离。
+- 3）测点$P_0$：确保LMD测量场的位置与光源位置对应。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2b5943c7ad694a74a5865f386b2a8d72.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA56eD5aS06Zif6ZW_,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
+单点或多点测量应采用下列测量程序：
+- 1）关闭DUT；
+- 2）得到参考对象的最大亮度$L_{vм}$和最小亮度$L_{vm}$；
+- 3）重复2）测试图的不同空间频率或条纹方向；
+- 4）如果适用，重复另一个目镜。
+
+计算对比度调制$C_{CM}$如下所示：
+![在这里插入图片描述](https://img-blog.csdnimg.cn/888457e584804707893c3306b4e9201c.png#pic_center)
+需上报以下项目：
+对比度调制$C_{CM}$和亮度$L_{vм}$ 、$L_{vm}$；参考对象的详细信息；设置细节，包括LMD和孔径大小，视点和DUT光轴。
