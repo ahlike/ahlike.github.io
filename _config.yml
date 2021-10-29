@@ -9,23 +9,20 @@ url: "http://gofreerobot.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 math:
-    engine: 'mathjax'
-    mathjax:
-        src: "//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-        config:
-            tex2jax:
-                inlineMath: [ ['$','$'], ["\\(","\\)"] ]
-# math:
-#   # Default (true) will load mathjax / katex script on demand.
-#   # That is it only render those page which has `mathjax: true` in Front-matter.
-#   # If you set it to false, it will load mathjax / katex srcipt EVERY PAGE.
-#   per_page: true
-
-#   # hexo-renderer-pandoc (or hexo-renderer-kramed) required for full MathJax support.
-#   mathjax:
-#     enable: true
-#     # See: https://mhchem.github.io/MathJax-mhchem/
-#     mhchem: false
+  # Default (true) will load mathjax / katex script on demand.
+  # That is it only render those page which has `mathjax: true` in Front-matter.
+  # If you set it to false, it will load mathjax / katex srcipt EVERY PAGE.
+  per_page: true
+  engine: 'mathjax'
+  # hexo-renderer-pandoc (or hexo-renderer-kramed) required for full MathJax support.
+  mathjax:
+    enable: true
+    # See: https://mhchem.github.io/MathJax-mhchem/
+    mhchem: false
+    src: "//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+       config:
+           tex2jax:
+               inlineMath: [ ['$','$'], ["\\(","\\)"] ]
 
 # SNS settings
 RSS: false
